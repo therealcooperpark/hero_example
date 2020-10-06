@@ -1,0 +1,12 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+201       212       1               126              2.0        ERR124228
+201       212       1               199              2.0        ERR067961
+201       212       1               284              2.0        ERR124292
+201       212       1               293              2.0        ERR124312
+201       212       1               340              2.0        ERR069718
+201       212       1               341              2.0        ERR124224
+201       212       1               413              2.0        ERR124243
+201       212       1               439              2.0        ERR124276
+201       212       1               443              2.0        ERR129067
+201       212       1               547              2.0        ERR129073

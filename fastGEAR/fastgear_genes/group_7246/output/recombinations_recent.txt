@@ -1,0 +1,12 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+1243      1293      3               20               0.4        ERR069735
+1243      1293      3               40               0.4        ERR069819
+1243      1293      3               251              0.4        ERR065295
+1243      1293      3               276              0.4        ERR069782
+1243      1293      3               315              0.4        ERR069813
+1243      1293      3               327              0.4        ERR065957
+1243      1293      3               359              0.4        ERR069722
+1243      1293      3               409              0.4        ERR069838
+1243      1293      3               444              0.4        ERR065349
+1243      1293      3               571              0.4        ERR068022

@@ -1,0 +1,13 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+274       379       3               2                7.5        ERR069786
+274       379       3               5                8.1        ERR124319
+274       379       3               7                8.7        ERR124244
+274       379       3               20               8.1        ERR124288
+307       379       3               23               4.8        ERR067993
+307       379       3               36               4.8        ERR069803
+274       379       3               45               8.1        ERR124294
+1         379       3               48               1.5        ERR067982
+309       379       3               49               5.0        ERR069841
+274       379       3               61               8.1        ERR124297
+274       379       3               64               8.1        ERR124286

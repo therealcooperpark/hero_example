@@ -1,0 +1,13 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+444       516       4               88               0.9        ERR124310
+444       516       4               140              0.9        ERR129048
+444       516       4               183              0.9        ERR065309
+444       516       4               221              0.9        ERR124305
+444       516       4               238              0.9        ERR129111
+444       516       4               282              0.5        ERR124253
+444       516       4               313              0.9        ERR065316
+444       516       4               314              0.9        ERR124217
+444       516       4               326              0.9        ERR124266
+444       516       4               496              0.9        ERR069757
+444       516       4               521              0.9        ERR129145

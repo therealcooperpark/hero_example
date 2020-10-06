@@ -1,0 +1,14 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+908       974       3               65               2.2        ERR129164
+908       974       3               95               2.4        ERR129088
+908       974       3               118              2.4        ERR067981
+908       974       3               169              2.4        ERR129158
+908       974       3               183              2.4        ERR068012
+908       974       3               314              2.4        ERR069683
+908       974       3               419              2.4        ERR124285
+908       974       3               420              2.4        ERR129126
+908       974       3               421              2.7        ERR129151
+910       1027      3               546              1.9        ERR129084
+908       974       3               548              2.7        ERR069815
+908       974       3               562              2.4        ERR129199

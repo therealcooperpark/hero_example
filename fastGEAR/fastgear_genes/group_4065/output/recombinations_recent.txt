@@ -1,0 +1,10 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+469       496       4               138              1.8        ERR124311
+469       496       4               306              1.8        ERR129057
+469       496       4               339              1.8        ERR069742
+469       496       4               374              1.8        ERR065294
+469       496       4               472              1.8        ERR065352
+469       496       4               480              1.8        ERR065290
+469       496       4               505              1.8        ERR129135
+469       496       4               549              1.8        ERR069840

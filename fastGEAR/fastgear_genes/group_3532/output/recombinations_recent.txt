@@ -1,0 +1,9 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+373       459       1               2                1.5        ERR065974
+373       459       1               50               1.5        ERR065341
+373       459       1               54               0.7        ERR129130
+373       459       1               163              1.5        ERR065965
+373       459       1               273              1.5        ERR124278
+373       459       1               418              1.5        ERR065289
+373       459       1               492              1.5        ERR065296

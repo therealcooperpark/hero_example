@@ -1,0 +1,9 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+772       780       3               37               10.6       ERR065325
+772       780       3               42               10.6       ERR065960
+772       780       3               228              10.6       ERR129050
+772       780       3               365              10.6       ERR065299
+772       780       3               396              10.6       ERR065315
+772       780       3               460              10.6       ERR069739
+772       780       3               568              10.6       ERR069695

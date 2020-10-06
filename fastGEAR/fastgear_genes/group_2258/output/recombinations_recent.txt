@@ -1,0 +1,14 @@
+2 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+351       426       4               6                5.5        ERR124247
+351       426       4               88               2.7        ERR129102
+351       426       4               122              5.5        ERR124271
+351       426       4               242              5.5        ERR129041
+351       426       4               303              5.5        ERR124289
+351       426       1               338              2.7        ERR069742
+351       426       4               344              5.5        ERR124309
+351       426       4               365              5.5        ERR129184
+351       426       1               373              2.7        ERR065294
+351       426       4               404              2.7        ERR129071
+351       426       4               440              5.5        ERR065318
+351       426       1               471              2.7        ERR065352

@@ -1,0 +1,14 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+857       870       4               15               3.5        ERR068037
+857       870       4               61               3.5        ERR069686
+857       870       4               66               3.5        ERR069688
+857       870       4               119              3.5        ERR067996
+857       870       4               157              3.5        ERR065343
+857       870       4               182              3.5        ERR067995
+857       870       4               242              3.5        ERR065338
+857       870       4               265              3.5        ERR129181
+857       870       4               376              3.5        ERR069778
+857       870       4               419              3.5        ERR124285
+857       870       4               470              3.5        ERR124318
+857       870       4               592              3.5        ERR067987

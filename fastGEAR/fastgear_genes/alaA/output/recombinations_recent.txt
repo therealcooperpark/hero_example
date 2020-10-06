@@ -1,0 +1,9 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+1212      1215      3               38               5.2        ERR124256
+1212      1215      3               57               5.2        ERR069809
+1212      1215      3               63               5.2        ERR068048
+1212      1215      3               97               5.2        ERR065350
+1212      1215      3               398              5.2        ERR069731
+1212      1215      3               479              5.2        ERR065347
+1212      1215      3               608              5.2        ERR129201

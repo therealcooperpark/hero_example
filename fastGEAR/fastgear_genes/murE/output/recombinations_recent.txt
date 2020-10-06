@@ -1,0 +1,12 @@
+2 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+877       888       3               2                4.9        ERR065974
+877       888       3               50               4.9        ERR065341
+877       888       3               54               4.9        ERR129130
+877       888       3               163              4.9        ERR065965
+877       888       3               185              4.9        ERR067993
+877       888       3               273              4.9        ERR124278
+1371      1422      3               319              9.7        ERR069803
+877       888       3               418              4.9        ERR065289
+877       888       3               455              4.9        ERR069841
+877       888       3               492              4.9        ERR065296

@@ -1,0 +1,10 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+658       698       4               6                6.0        ERR124247
+658       698       4               123              6.0        ERR124271
+658       698       4               243              6.0        ERR129041
+658       698       4               265              6.0        ERR129181
+658       698       4               304              6.0        ERR124289
+658       698       4               345              6.0        ERR124309
+658       698       4               366              6.0        ERR129184
+658       698       4               441              6.0        ERR065318

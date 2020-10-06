@@ -1,0 +1,13 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+293       308       3               2                1.5        ERR065974
+293       308       3               50               1.5        ERR065341
+293       308       3               54               1.5        ERR129130
+293       308       3               163              1.5        ERR065965
+293       308       3               185              1.5        ERR067993
+293       308       3               273              1.5        ERR124278
+293       308       3               319              1.5        ERR069803
+293       308       3               418              1.5        ERR065289
+293       308       3               455              1.5        ERR069841
+293       308       3               492              1.5        ERR065296
+293       308       3               525              1.5        ERR068009

@@ -1,0 +1,12 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+693       701       4               126              0.9        ERR124228
+693       701       4               199              0.9        ERR067961
+693       701       4               284              0.9        ERR124292
+693       701       4               293              0.9        ERR124312
+693       701       4               340              0.9        ERR069718
+693       701       4               341              0.9        ERR124224
+693       701       4               413              0.9        ERR124243
+614       701       4               439              0.9        ERR124276
+614       701       4               443              0.9        ERR129067
+614       701       4               547              0.9        ERR129073

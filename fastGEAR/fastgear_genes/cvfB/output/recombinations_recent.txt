@@ -1,0 +1,4 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+850       894       3               200              0.5        ERR069820
+850       894       3               546              0.5        ERR129084

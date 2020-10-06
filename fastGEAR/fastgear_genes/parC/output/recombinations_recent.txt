@@ -1,0 +1,10 @@
+3 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+2241      2326      4               185              16.1       ERR067993
+2327      2436      1               185              8.9        ERR067993
+2241      2326      4               319              16.1       ERR069803
+2327      2436      1               319              8.9        ERR069803
+954       1070      4               427              1.0        ERR124252
+954       1070      4               438              1.4        ERR067982
+2241      2326      4               455              16.1       ERR069841
+2327      2436      1               455              8.9        ERR069841

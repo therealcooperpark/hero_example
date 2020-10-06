@@ -1,0 +1,8 @@
+2 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+405       471       1               339              14.7       ERR069742
+472       564       3               339              5.0        ERR069742
+405       471       1               374              14.7       ERR065294
+472       564       3               374              5.0        ERR065294
+405       471       1               472              14.7       ERR065352
+472       564       3               472              5.0        ERR065352

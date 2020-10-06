@@ -1,0 +1,12 @@
+2 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+401       409       2               6                0.4        ERR124247
+401       409       2               122              0.4        ERR124271
+401       409       2               242              0.4        ERR129041
+401       409       2               303              0.4        ERR124289
+397       409       4               338              2.5        ERR069742
+401       409       2               344              0.4        ERR124309
+401       409       2               365              0.4        ERR129184
+397       409       4               373              2.5        ERR065294
+401       409       2               439              0.4        ERR065318
+397       409       4               470              2.5        ERR065352

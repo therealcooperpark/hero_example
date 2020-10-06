@@ -1,0 +1,9 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+622       765       3               121              1.5        ERR069785
+622       765       3               362              1.5        ERR129162
+622       765       3               427              1.5        ERR124252
+622       765       3               438              1.5        ERR067982
+622       765       3               494              1.5        ERR065958
+622       765       3               556              1.5        ERR069797
+622       765       3               578              1.5        ERR069821

@@ -1,0 +1,5 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+382       494       1               18               18.4       ERR129041
+382       494       1               29               17.5       ERR069742
+382       494       1               43               17.5       ERR065352

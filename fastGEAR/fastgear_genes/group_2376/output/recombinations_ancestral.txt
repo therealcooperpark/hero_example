@@ -1,0 +1,4 @@
+RECOMBINATIONS IN LINEAGES
+Start     End       Lineage1        Lineage2         log(BF)
+400       720       2               1                5.4       
+721       986       3               2                14.1      

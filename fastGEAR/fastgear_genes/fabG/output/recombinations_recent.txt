@@ -1,0 +1,9 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+700       710       3               20               0.0        ERR069735
+700       710       3               40               0.0        ERR069819
+700       710       3               251              0.0        ERR065295
+700       710       3               276              0.0        ERR069782
+700       710       3               315              0.0        ERR069813
+700       710       3               327              0.0        ERR065957
+700       710       3               409              0.0        ERR069838

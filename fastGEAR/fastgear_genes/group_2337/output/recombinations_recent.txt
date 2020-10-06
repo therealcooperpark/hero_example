@@ -1,0 +1,14 @@
+5 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+361       448       4               6                13.7       ERR065325
+331       412       4               8                9.2        ERR065960
+1048      1129      5               16               0.1        ERR069729
+292       488       6               33               19.2       ERR068004
+331       412       4               34               9.2        ERR129050
+331       412       4               45               9.2        ERR129161
+889       1083      2               61               3.3        ERR067975
+1048      1129      5               65               0.1        ERR069730
+413       480       5               72               6.8        ERR129137
+331       412       4               75               9.2        ERR129208
+331       412       4               88               9.2        ERR065348
+331       412       4               90               9.2        ERR129100

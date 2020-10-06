@@ -1,0 +1,11 @@
+2 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+511       560       4               2                4.8        ERR065974
+511       560       4               49               4.8        ERR065341
+511       560       4               53               4.8        ERR129130
+336       343       4               146              8.3        ERR129207
+511       560       4               162              4.8        ERR065965
+511       560       4               272              4.8        ERR124278
+511       560       4               417              4.8        ERR065289
+511       560       4               453              6.3        ERR069841
+511       560       4               490              4.8        ERR065296

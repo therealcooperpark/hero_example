@@ -1,0 +1,4 @@
+RECOMBINATIONS IN LINEAGES
+Start     End       Lineage1        Lineage2         log(BF)
+485       705       3               1                6.0       
+304       413       3               2                3.7       

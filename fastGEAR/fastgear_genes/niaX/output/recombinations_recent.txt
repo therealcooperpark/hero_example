@@ -1,0 +1,10 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+373       433       3               80               1.7        ERR129028
+373       433       3               173              1.7        ERR129083
+373       433       3               201              1.7        ERR129216
+373       433       3               350              1.7        ERR129136
+373       433       3               452              1.7        ERR129202
+373       433       3               486              1.7        ERR129138
+373       433       3               567              1.7        ERR129103
+373       433       3               616              1.7        ERR129030

@@ -1,0 +1,10 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+699       862       4               6                10.6       ERR124247
+699       862       4               122              10.0       ERR069792
+699       862       4               140              10.0       ERR068031
+699       862       4               174              10.0       ERR065354
+699       862       4               329              10.0       ERR069692
+699       862       4               332              10.0       ERR069723
+699       862       4               407              10.0       ERR069697
+699       862       4               468              10.0       ERR069810

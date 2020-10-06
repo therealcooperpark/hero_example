@@ -1,0 +1,13 @@
+2 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+4783      4983      4               2                1.0        ERR065974
+4783      4983      4               5                1.0        ERR065341
+3571      3791      1               13               2.4        ERR065350
+4783      4983      4               21               1.0        ERR065965
+4783      4983      4               24               1.0        ERR067993
+4783      4983      4               34               1.0        ERR124278
+4783      4983      4               37               1.0        ERR069803
+3571      3791      1               48               2.4        ERR069731
+4783      4983      4               51               1.0        ERR065289
+3571      3791      1               61               2.4        ERR065347
+4783      4983      4               63               1.0        ERR065296

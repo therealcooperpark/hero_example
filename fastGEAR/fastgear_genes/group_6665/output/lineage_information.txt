@@ -1,0 +1,6 @@
+StrainIndex  Lineage  Cluster  Name
+1            2        2        ERR069824
+2            3        3        ERR129207
+3            2        2        ERR129026
+4            1        1        ERR124219
+5            3        3        ERR129122

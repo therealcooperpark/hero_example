@@ -1,0 +1,8 @@
+2 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+417       444       4               35               8.7        ERR065325
+417       444       4               40               8.7        ERR065960
+310       444       4               152              8.2        ERR129048
+417       444       4               215              8.7        ERR129050
+310       444       4               236              8.2        ERR124305
+417       444       4               339              8.7        ERR065299

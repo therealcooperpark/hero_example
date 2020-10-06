@@ -1,0 +1,7 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+928       1749      2               33               5.3        ERR124310
+928       1749      2               78               5.3        ERR124305
+928       1749      2               105              5.3        ERR124266
+928       1749      2               131              5.3        ERR124265
+928       1749      2               162              5.3        ERR129145

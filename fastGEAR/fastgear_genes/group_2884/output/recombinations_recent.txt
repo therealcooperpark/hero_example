@@ -1,0 +1,13 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+553       586       3               14               6.8        ERR129212
+553       586       3               92               6.8        ERR069748
+553       586       3               114              6.8        ERR069689
+553       586       3               165              6.8        ERR129180
+553       586       3               270              6.8        ERR068006
+553       586       3               282              6.8        ERR069832
+553       586       3               303              6.8        ERR069716
+553       586       3               311              6.8        ERR069750
+553       586       3               361              6.8        ERR069701
+553       586       3               477              6.8        ERR067983
+553       586       3               496              6.8        ERR067989

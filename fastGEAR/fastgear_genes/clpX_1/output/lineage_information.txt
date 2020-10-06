@@ -1,0 +1,2 @@
+StrainIndex  Lineage  Cluster  Name
+1            1        1        ERR069780

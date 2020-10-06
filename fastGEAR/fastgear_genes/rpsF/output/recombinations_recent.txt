@@ -1,0 +1,12 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+139       213       3               2                1.5        ERR065974
+139       213       3               50               1.5        ERR065341
+139       213       3               54               1.5        ERR129130
+139       213       3               163              1.5        ERR065965
+139       213       3               185              1.5        ERR067993
+139       213       3               273              1.5        ERR124278
+139       213       3               319              1.5        ERR069803
+139       213       3               418              1.5        ERR065289
+139       213       3               455              1.5        ERR069841
+139       213       3               492              1.5        ERR065296

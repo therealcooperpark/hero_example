@@ -1,0 +1,6 @@
+1 RECENT RECOMBINATION EVENTS
+Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
+358       368       3               122              5.6        ERR124218
+358       368       3               357              5.6        ERR124258
+358       368       3               446              5.6        ERR124306
+358       368       3               493              5.6        ERR065312
