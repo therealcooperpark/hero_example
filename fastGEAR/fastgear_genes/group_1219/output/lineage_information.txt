@@ -1,6 +1,0 @@
-StrainIndex  Lineage  Cluster  Name
-1            2        2        ERR065972
-2            1        1        ERR069746
-3            2        2        ERR129203
-4            2        2        ERR124239
-5            2        2        ERR124265

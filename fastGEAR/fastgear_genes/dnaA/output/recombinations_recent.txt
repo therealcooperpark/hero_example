@@ -1,4 +1,0 @@
-1 RECENT RECOMBINATION EVENTS
-Start     End       DonorLineage    RecipientStrain  log(BF)    StrainName
-1162      1362      3               200              0.6        ERR069820
-1162      1362      3               546              0.6        ERR129084

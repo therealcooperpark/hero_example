@@ -1,6 +1,6 @@
-Minimum recombinations for a highway: 17.0
-Number of predicted events: 2230
-Number of events from highways: 466
+Minimum recombinations for a highway: 12.0
+Number of predicted events: 1087
+Number of events from highways: 126
 Number of recombining pairs: 529
-Number of highway pairs: 18
-Number of genes with recombination: 558
+Number of highway pairs: 7
+Number of genes with recombination: 253
